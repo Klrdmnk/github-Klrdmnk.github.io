@@ -1,0 +1,19 @@
+.big {
+    color:blue;
+}
+
+p {
+    background:yellow;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+.green {
+    border: 1px green solid;
+}
+
+div:hover {
+    background: orange;
+}
