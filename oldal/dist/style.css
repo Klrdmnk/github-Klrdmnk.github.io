@@ -1,0 +1,31 @@
+.box {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  background: purple;
+}
+
+.box2 {
+  display: flex;
+}
+
+.sarga {
+  height: 800px;
+  background: yellow;
+  flex-grow: 4;
+}
+
+.zold {
+  height: 800px;
+  background: lime;
+  flex-grow: 1;
+}
+
+a {
+  height: 30px;
+  width: 150px;
+  background: cyan;
+  margin: 5px;
+  margin-left: 40px;
+  margin-top: 30px;
+}

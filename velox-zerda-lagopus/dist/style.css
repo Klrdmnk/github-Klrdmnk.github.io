@@ -1,0 +1,30 @@
+p {
+ font-family: 'Baloo Tammudu 2', cursive;
+ background: #0D91A1;
+ color: #015668;
+ margin: 50px;
+ height : 100px;
+ width: 300px;
+ border: 5px;
+ border-style: solid;
+ border-color: #7DCE94;
+}
+
+.shorthand-for-all-sides {
+  paddig: 10px;
+}
+
+.different-sides {
+  padding-top: 10px;
+  padding-right: 20px;
+  paddig-bottom: 30px;
+  padding-left: 40px;
+}
+
+.shorthand-for-different-sides {
+  padding: 10px 20px 30px 40px;
+}
+
+.shorthand-vertical-horizontal {
+  padding: 10px 20px;
+}

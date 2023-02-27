@@ -1,0 +1,47 @@
+.box {
+  position: fixed;
+  display: flex;
+  height: 70px;
+  width: 100%;
+  background: purple;
+}
+
+.box2 {
+  display: flex;
+  top: 70px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.box30 {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.sarga {
+  height: 800px;
+  background: yellow;
+  flex-grow: 4;
+}
+
+.zold {
+  height: 800px;
+  background: lime;
+  flex-grow: 1;
+}
+
+.szurke {
+  height: 80px;
+  width: 100%;
+  background: lightgrey;
+}
+
+a {
+  height: 30px;
+  width: 150px;
+  background: cyan;
+  margin: 5px;
+  margin-left: 40px;
+  margin-top: 20px;
+}

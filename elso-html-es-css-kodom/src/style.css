@@ -1,0 +1,41 @@
+div {
+  background: orange;
+  padding: 10px 30px;
+  font-family: "Comic Sans MS";
+}
+
+  h1 {
+    background: red;
+    margin: 20px;
+    border: 2px solid white;
+    paddign: 40px;
+    width: 400px;
+    height:100px;
+    font-size: 40px;
+    font-weight: 100;
+  }
+
+h3 {
+  color: rgba(230,20,150, 10);
+  background: rgb(255,255,10);
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 100px;
+}
+
+#nevInputMezo {
+  background: lime;
+}
+
+li {
+  background: pink;
+}
+
+.citrom {
+  background: yellow;
+}
+
+.nagybetus {
+  font-size: 40px;
+}

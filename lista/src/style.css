@@ -1,0 +1,19 @@
+h1 {
+  color: orange
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+.pink {
+  color:#FF00CD;
+}
+
+.underline {
+  text-decoration: underline;
+}

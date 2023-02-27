@@ -1,0 +1,31 @@
+.container {
+  width: 400px;
+  height: 150px;
+  background: #ffd62a;
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  list-style-type: none;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  margin: 5px;
+}
+
+.lila {
+  background: #b02afe;
+}
+
+.lila2 {
+  background: #b02afe;
+}
+
+.lila3 {
+  background: #b02afe;
+}
+
+.lila4 {
+  background: #b02afe;
+}

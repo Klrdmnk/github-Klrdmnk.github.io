@@ -1,0 +1,18 @@
+a {
+  display: block;
+  font-family: 'Sen', sans-serif;
+  color: green;
+  margin: 10px;
+}
+
+a:hover {
+  color: lime;
+}
+
+a:active {
+  color: green;
+}
+
+main:hover {
+  background: lime;
+}

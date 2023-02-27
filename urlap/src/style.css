@@ -1,0 +1,20 @@
+label {
+  display:block;
+  text-transform: uppercase;
+  margin: 4px;
+}
+
+input {
+  border: 2px solid lime;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+button {
+  display:block;
+  text-transform: uppercase;
+  padding: 25px;
+  margin: 4px;
+  border: 2px solid lime;
+  border-radius: 20px;
+}
